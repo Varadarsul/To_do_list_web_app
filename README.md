@@ -53,7 +53,7 @@ This project is a simple, responsive To-Do List website that allows users to man
 
 (Include screenshots or gifs of your project here)
 
-![Screenshot1](path-to-screenshot1)
+![Screenshot1]([path-to-screenshot1](https://github.com/user-attachments/assets/63aa8956-5e33-4e6f-bc00-1d43c927486c))
 ![Screenshot2](path-to-screenshot2)
 
 
